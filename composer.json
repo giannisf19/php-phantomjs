@@ -18,7 +18,6 @@
         "symfony/dependency-injection": "4.4.*",
         "symfony/filesystem": "4.4.*",
         "symfony/yaml": "4.4.*",
-        "twig/twig": "3.0.*",
         "jakoch/phantomjs-installer": "2.1.1-p08"
     },
     "require-dev": {
